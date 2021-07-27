@@ -3,7 +3,8 @@
 An aspiring frontend developer who likes to keep herself busy by building and learning cool stuff on the side.   
 My goal is to always build products that provide performant experiences.
 
-🤓 Music Lover, Love squid fishing in my spare time
+🤓 Music && Travel Lover  
+🦑 Love squid fishing in my spare time
 
 ### Things I work with
 ![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=black)
